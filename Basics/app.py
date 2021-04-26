@@ -20,3 +20,4 @@ spam1 = spam1 +" World"
 print(spam1)
 
 #Evaluates -> Expression. else it is a statement
+
