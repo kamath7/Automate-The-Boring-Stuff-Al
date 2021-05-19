@@ -1,0 +1,36 @@
+Traceback (most recent call last):
+  File "app.py", line 20, in <module>
+    raise Exception('Lalle msg')
+Exception: Lalle msg
+Traceback (most recent call last):
+  File "app.py", line 20, in <module>
+    raise Exception('Lalle msg')
+Exception: Lalle msg
+Traceback (most recent call last):
+  File "app.py", line 20, in <module>
+    raise Exception('Lalle msg')
+Exception: Lalle msg
+Traceback (most recent call last):
+  File "app.py", line 20, in <module>
+    raise Exception('Lalle msg')
+Exception: Lalle msg
+Traceback (most recent call last):
+  File "app.py", line 20, in <module>
+    raise Exception('Lalle msg')
+Exception: Lalle msg
+Traceback (most recent call last):
+  File "app.py", line 20, in <module>
+    raise Exception('Lalle msg')
+Exception: Lalle msg
+Traceback (most recent call last):
+  File "app.py", line 20, in <module>
+    raise Exception('Lalle msg')
+Exception: Lalle msg
+Traceback (most recent call last):
+  File "app.py", line 20, in <module>
+    raise Exception('Lalle msg')
+Exception: Lalle msg
+Traceback (most recent call last):
+  File "app.py", line 20, in <module>
+    raise Exception('Lalle msg')
+Exception: Lalle msg
