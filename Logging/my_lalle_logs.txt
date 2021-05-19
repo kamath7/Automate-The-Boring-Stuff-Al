@@ -1,0 +1,16 @@
+2021-05-19 21:30:11,809 - DEBUG - Starting
+2021-05-19 21:30:11,810 - DEBUG - Start of factorial 5
+2021-05-19 21:30:11,810 - DEBUG - Value of is is 1. Value of total is 1
+2021-05-19 21:30:11,810 - DEBUG - Value of is is 2. Value of total is 2
+2021-05-19 21:30:11,810 - DEBUG - Value of is is 3. Value of total is 6
+2021-05-19 21:30:11,811 - DEBUG - Value of is is 4. Value of total is 24
+2021-05-19 21:30:11,811 - DEBUG - Value of is is 5. Value of total is 120
+2021-05-19 21:30:11,812 - DEBUG - end
+2021-05-19 21:31:07,440 - DEBUG - Starting
+2021-05-19 21:31:07,441 - DEBUG - Start of factorial 5
+2021-05-19 21:31:07,441 - DEBUG - Value of is is 1. Value of total is 1
+2021-05-19 21:31:07,442 - DEBUG - Value of is is 2. Value of total is 2
+2021-05-19 21:31:07,442 - DEBUG - Value of is is 3. Value of total is 6
+2021-05-19 21:31:07,442 - DEBUG - Value of is is 4. Value of total is 24
+2021-05-19 21:31:07,442 - DEBUG - Value of is is 5. Value of total is 120
+2021-05-19 21:31:07,442 - DEBUG - end
